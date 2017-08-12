@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/maintao/naive-lock",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maintao/naive-lock.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
